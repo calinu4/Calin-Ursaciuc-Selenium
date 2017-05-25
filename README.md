@@ -4,4 +4,4 @@
 
 <b>TestingExercise</b> contains basic selenium testing exercises completed.
 
-<b>TestingExtent</b> contains the Book Finder Project modified to use TestNG and Extent Reports
+<bScenarioTestingExtent</b> contains the Book Finder Project modified to use TestNG and Extent Reports
