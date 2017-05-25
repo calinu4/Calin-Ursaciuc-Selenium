@@ -1,1 +1,39 @@
-readme
+
+Calin Ursaciuc- Scenario Examples
+Scenario Examples:
+Scenario 1) User logging into website and viewing account page
+a)	Load homepage
+b)	Navigate to login page
+c)	Enter details
+d)	Navigate to account page
+e)	Logout
+Website used: http://www.mouseprice.com/
+
+Scenario 2) User browsing products and purchasing one
+a)	Load homepage
+b)	Search by keywords
+c)	View multiple products: load the first product from results
+d)	Add one product to basket
+e)	Proceed to checkout
+Website used: https://www.amazon.co.uk
+
+Scenario 3) User Registration with a random email address
+a)	Load Homepage
+b)	Navigate to Sign in page
+c)	Enter details
+d)	Create Account
+e)	Search the logout button and logout the user from the website
+Website used: http://www.hive.co.uk/
+
+Scenario 4) Bookshop Finder by typing in location
+a)	Load Homepage
+b)	Find bookshop finder area on homepage
+c)	Enter location data
+d)	Navigate to locations results
+e)	Check the first result details
+Website used: http://www.hive.co.uk/
+
+
+
+
+
