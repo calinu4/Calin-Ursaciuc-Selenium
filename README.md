@@ -1,4 +1,5 @@
 # Calin-Ursaciuc-Selenium
+<b>Day1-Selenium IDE</b> contains the firefox selenium tests using the browser IDE.
 
 <b>ExtentTesting</b> contains the BookShop finder project converted to testNG using cross browsing xml file.
 
