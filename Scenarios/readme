@@ -1,4 +1,5 @@
 Calin Ursaciuc- Scenario Examples
+AllTests.java class is a Runner Class that will run all 4 tests for all scenarios and generate an Extent Report that contains each test result.
 Scenario Examples:
 Scenario 1) User logging into website and viewing account page
 a)	Load homepage
